@@ -1,0 +1,5 @@
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\Mm.DomainModel\bin\Debug\Mm.DomainModel.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\Mm.DomainModel\bin\Debug\Mm.DomainModel.pdb
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\Mm.DomainModel\obj\Debug\Mm.DomainModel.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\Mm.DomainModel\obj\Debug\Mm.DomainModel.pdb
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\Mm.DomainModel\obj\Debug\Mm.DomainModel.csprojResolveAssemblyReference.cache

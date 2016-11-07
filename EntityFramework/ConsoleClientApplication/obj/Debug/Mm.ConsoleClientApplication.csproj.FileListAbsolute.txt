@@ -1,0 +1,31 @@
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\SchoolDB.mdf
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\SchoolDB_log.ldf
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.exe.config
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.exe
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.pdb
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\Mm.DataAccessLayer.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\Mm.DataAccessLayer.pdb
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.xml
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\obj\Debug\Mm.ConsoleClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\obj\Debug\ConsoleClientApplication.exe
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\obj\Debug\ConsoleClientApplication.pdb
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\BusinessLayer.dll
+C:\Users\GAP\Documents\Visual Studio 2015\Projects\Mm\ConsoleClientApplication\bin\Debug\BusinessLayer.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.exe.config
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\obj\Debug\ConsoleClientApplication.exe
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\obj\Debug\ConsoleClientApplication.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\SchoolDB.mdf
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\SchoolDB_log.ldf
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.exe
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\ConsoleClientApplication.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\BusinessLayer.dll
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\Mm.DataAccessLayer.dll
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\BusinessLayer.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\Mm.DataAccessLayer.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.xml
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\obj\Debug\Mm.ConsoleClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClientApplication\bin\Debug\EntityFramework.SqlServer.dll
