@@ -1,0 +1,75 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+C:\cecs475\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+C:\cecs475\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb

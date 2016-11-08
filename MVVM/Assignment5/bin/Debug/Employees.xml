@@ -1,0 +1,136 @@
+<?xml version='1.0' ?>
+<Employee>
+<SalariedEmployee>
+<FirstName>
+	John
+</FirstName>
+<LastName>
+	Smith
+</LastName>
+<SSN>
+	111-11-1111
+</SSN>
+<Salary>
+	700,000,000
+</Salary>
+</SalariedEmployee>
+<SalariedEmployee>
+<FirstName>
+	Antonio
+</FirstName>
+<LastName>
+	Smith
+</LastName>
+<SSN>
+	555-55-5555
+</SSN>
+<Salary>
+	800,000,000
+</Salary>
+</SalariedEmployee>
+<SalariedEmployee>
+<FirstName>
+	Victor
+</FirstName>
+<LastName>
+	Smith
+</LastName>
+<SSN>
+	444-44-4444
+</SSN>
+<Salary>
+	600,000,000
+</Salary>
+</SalariedEmployee>
+<HourlyEmployee>
+<FirstName>
+	Karen
+</FirstName>
+<LastName>
+	Price
+</LastName>
+<SSN>
+	222-22-2222
+</SSN>
+<HourlyWage>
+	16,750,000
+</HourlyWage>
+<HoursWorked>
+	40
+</HoursWorked>
+</HourlyEmployee>
+<HourlyEmployee>
+<FirstName>
+	Ruben
+</FirstName>
+<LastName>
+	Zamora
+</LastName>
+<SSN>
+	666-66-6666
+</SSN>
+<HourlyWage>
+	20,000,000
+</HourlyWage>
+<HoursWorked>
+	40
+</HoursWorked>
+</HourlyEmployee>
+<CommissionEmployee>
+<FirstName>
+	Sue
+</FirstName>
+<LastName>
+	Jones
+</LastName>
+<SSN>
+	333-33-3333
+</SSN>
+<Sales>
+	10,000,000,000
+</Sales>
+<Rate>
+	0.06
+</Rate>
+</CommissionEmployee>
+<BasePlusCommissionEmployee>
+<FirstName>
+	Bob
+</FirstName>
+<LastName>
+	Lewis
+</LastName>
+<SSN>
+	777-77-7777
+</SSN>
+<Sales>
+	5,000,000,000
+</Sales>
+<Rate>
+	0.04
+</Rate>
+<Salary>
+	300,000,000
+</Salary>
+</BasePlusCommissionEmployee>
+<BasePlusCommissionEmployee>
+<FirstName>
+	Lee
+</FirstName>
+<LastName>
+	Duarte
+</LastName>
+<SSN>
+	888-88-8888
+</SSN>
+<Sales>
+	5,000,000,000
+</Sales>
+<Rate>
+	0.04
+</Rate>
+<Salary>
+	300,000,000
+</Salary>
+</BasePlusCommissionEmployee>
+</Employee>

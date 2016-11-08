@@ -1,0 +1,59 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\cecs475\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\cecs475\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+C:\cecs475\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\cecs475\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\Users\Aastha Jain\Desktop\ASP .NET\Assignment\BooksExamples\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache

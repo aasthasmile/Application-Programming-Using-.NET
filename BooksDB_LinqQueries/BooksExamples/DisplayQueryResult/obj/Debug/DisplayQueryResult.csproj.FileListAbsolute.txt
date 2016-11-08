@@ -1,0 +1,75 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch18\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\cecs475sp16\labs\linqquery\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\Users\ChildOfMars\Desktop\workspace\CECS 475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+C:\cecs475\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\cecs475\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
