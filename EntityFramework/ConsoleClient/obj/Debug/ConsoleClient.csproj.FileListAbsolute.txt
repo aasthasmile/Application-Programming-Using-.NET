@@ -14,3 +14,6 @@ C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClient\b
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClient\bin\Debug\EntityFramework.xml
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClient\obj\Debug\ConsoleClient.exe
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Mm\Mm\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\EntityFramework\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\EntityFramework\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\EntityFramework\ConsoleClient\obj\Debug\ConsoleClient.pdb
