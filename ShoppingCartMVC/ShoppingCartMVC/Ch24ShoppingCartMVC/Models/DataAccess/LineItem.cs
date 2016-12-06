@@ -12,22 +12,15 @@ namespace Ch24ShoppingCartMVC.Models.DataAccess
     using System;
     using System.Collections.Generic;
     
-    public partial class Product
+    public partial class LineItem
     {
-        public Product()
-        {
-            this.LineItems = new HashSet<LineItem>();
-        }
-    
+        public int InvoiceNumber { get; set; }
         public string ProductID { get; set; }
-        public string Name { get; set; }
-        public string ShortDescription { get; set; }
-        public string LongDescription { get; set; }
-        public string CategoryID { get; set; }
-        public string ImageFile { get; set; }
         public decimal UnitPrice { get; set; }
-        public int OnHand { get; set; }
+        public int Quantity { get; set; }
+        public Nullable<decimal> Extension { get; set; }
     
-        public virtual ICollection<LineItem> LineItems { get; set; }
+        public virtual Invoice Invoice { get; set; }
+        public virtual Product Product { get; set; }
     }
 }

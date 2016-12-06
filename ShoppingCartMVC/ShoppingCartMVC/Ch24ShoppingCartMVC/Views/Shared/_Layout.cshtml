@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+
     @*Create a ViewBag property called Title*@
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
@@ -22,12 +23,16 @@
         Contact Us Action method: Contact Controller: Home
                 *@
                 <li>@Html.ActionLink("Home", "Index/", "Home")</li>
-                ______________________________________________
+                <li>@Html.ActionLink("Order", "Index/", "Order")</li>
+                <li>@Html.ActionLink("Cart", "List/", "Cart")</li>
+               <li>@Html.ActionLink("Checkout","Index/", "Checkout")</li>
+                <li>@Html.ActionLink("Contact Us", "Contact/", "Home")</li>
             </ul>
         </nav>
     </aside>
     <section>
         @RenderBody()
+       
     </section>
     <footer>
         @RenderSection("footer", required: false)
