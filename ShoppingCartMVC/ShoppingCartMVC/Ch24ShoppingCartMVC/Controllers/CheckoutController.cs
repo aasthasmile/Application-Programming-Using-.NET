@@ -11,7 +11,6 @@ namespace Ch24ShoppingCartMVC.Controllers
     {
         Checkoutmodel cart = new Checkoutmodel();
         // GET: /Checkout/
-       
 
         public ActionResult Index()
         {

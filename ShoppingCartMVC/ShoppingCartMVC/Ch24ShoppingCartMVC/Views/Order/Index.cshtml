@@ -18,6 +18,8 @@
         }
     </select>
 </form>
+
+
 @using (Html.BeginForm("List", "Cart", FormMethod.Post, new { id = "frmCart" })) {
     <div id="productData">   
         <label id="lblName">@product.Name</label>

@@ -36,13 +36,13 @@ else
     <p> Price (After Tax) :  @Math.Round((Model.Total * (1 + Model.tax)), 2)$</p>
     <form>
     <input type="radio" id="paypal">
-        <label for="paypal"><img src="~/Content/Images/paypal.png"></label>
+        <label for="paypal"><img src="~/Content/Images/paypal.png" width="200" height="100"></label>
      <br />
     <input type="radio"  id="mastercard">
-        <label for="mastercard"><img src="~/Content/Images/mastercard.png" ></label>
+        <label for="mastercard"><img src="~/Content/Images/mastercard.png" width="200" height="100" ></label>
     <br />
     <input type="radio" id="visa">
-        <label for="visa">  <img src="~/Content/Images/visa.png"></label>
+        <label for="visa">  <img src="~/Content/Images/visa.png" width="200" height="100"></label>
      <br />
 </form>
 
@@ -128,6 +128,7 @@ else
                     <td><label for="ZipCode">Zip Code </label></td>
                     <td><input type="text" name="ZipCode" /></td>
                 </tr>
+            
             </table>
         </div>
     </form>

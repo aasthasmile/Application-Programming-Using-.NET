@@ -177,3 +177,4 @@ C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programmi
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\ShoppingCartMVC\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\ShoppingCartMVC\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\ShoppingCartMVC\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+C:\Users\Aastha Jain\Documents\Visual Studio 2015\Projects\Application-Programming-Using-.NET\ShoppingCartMVC\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
